@@ -1,4 +1,4 @@
-DATA_DIR = "../data"
+DATA_DIR = "data"
 MODEL_NAME = "model.joblib"
 X_TRAIN = "X_train.zip"
 Y_TRAIN = "y_train.zip"
