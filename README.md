@@ -2,7 +2,7 @@
 
 Using SKlearn's transformers and pipelines.
 
-* [Slides](https://speakerdeck.com/klemag/maintainable-code-for-ml-engineering)
+* [Slides](https://speakerdeck.com/klemag/maintainable-code-for-machine-learning-engineering)
 
 ## Install
 
